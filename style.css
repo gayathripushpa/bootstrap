@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.row{
+    background-color: rgb(8, 8, 99);
+    height:60px;
+}
